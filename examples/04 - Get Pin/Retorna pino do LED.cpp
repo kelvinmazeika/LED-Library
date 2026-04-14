@@ -1,3 +1,7 @@
+/**
+ * Código de exemplo para demonstrar o uso do método getPin() da classe Led, que retorna o pino onde o LED está conectado.
+ */
+
 #include <Arduino.h>
 #include "LED.h"
 

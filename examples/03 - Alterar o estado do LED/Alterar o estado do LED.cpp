@@ -1,3 +1,7 @@
+/**
+ * Código de exemplo para a biblioteca LED, demonstrando o uso do método toggle() para alterar o estado do LED.
+ */
+
 #include <Arduino.h>
 #include "LED.h"
 

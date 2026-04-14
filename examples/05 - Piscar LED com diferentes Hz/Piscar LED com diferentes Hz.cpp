@@ -1,3 +1,7 @@
+/**
+ * Código de exemplo para a biblioteca LED, demonstrando o uso do método blink() com diferentes frequências.
+ */
+
 #include <Arduino.h>
 #include "LED.h"
 

@@ -1,3 +1,6 @@
+/**
+ * Código de exemplo para a biblioteca LED, que pisca um LED 5 vezes com a frequência de 2 Hz.
+ */
 #include <Arduino.h>
 #include "LED.h"
 
