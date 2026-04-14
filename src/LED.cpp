@@ -90,8 +90,6 @@ void Led::update()
 
     if (blinkOn)
         functionBlink();
-    else if (!blinkOn)
-        off();
 
     if (turnOffTime)
     {
