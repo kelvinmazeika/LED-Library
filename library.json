@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {
     "name": "LED",
     "version": "1.0.0",
@@ -25,31 +24,3 @@
     "platforms": "*",
     "headers": "LED.h"
 }
-=======
-{
-    "name": "LED",
-    "version": "1.0.0",
-    "description": "Biblioteca para controle nao bloqueante de LED com suporte a ligar, desligar, piscar e alternar o estado do LED.",
-    "keywords": [
-        "LED",
-        "controle",
-        "non-blocking",
-        "ligar",
-        "desligar",
-        "piscar",
-        "alternar",
-        "Arduino",
-        "ESP32"
-    ],
-    "author": [
-        {
-            "name": "Kelvin Mazeika",
-            "email": "kelvin.mzk@gmail.com"
-        }
-    ],
-    "license": "MIT",
-    "framework": "Arduino",
-    "platforms": "*",
-    "headers": "LED.h"
-}
->>>>>>> 0d30969a6c6c25ec7199c38af614e23f2d940a8c
